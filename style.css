@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.todo--pop{
+    background-color: rgb(19, 96, 126);
+    margin: 10px;
+    padding: 10px;
+}
